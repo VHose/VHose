@@ -20,7 +20,10 @@ I'm Valentino Hose
 ## About Me
 - 🌱 Currently learning Web Development (HTML, CSS, JS)  
 - 🔭 Interested in AI and game creation
-- 📫 How to reach me: [LinkedIn](https://linkedin.com) | [Instagram](https://www.instagram.com/legaseeh?igsh=ZGRlaHBrYXQxbnF3)
+- 📫 How to reach me: 
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/valentino-hose-09ba07366/)" target="_blank">LinkedIn</a> | 
+  <a href="https://www.instagram.com/legaseeh?igsh=ZGRlaHBrYXQxbnF3" target="_blank">Instagram</a>
+
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
