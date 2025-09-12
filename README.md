@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **VHose/VHose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Sayeni laki laki
 -->
-# Hello World! 👋
 I'm Valentino Hose  
 
 ## About Me
-- 🌱 Currently learning Web Development (HTML, CSS, JS)  
+- 🌱 Currently learning HTML, CSS, JS, Godot, Python
 - 🔭 Interested in AI and game creation
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/valentino-hose-09ba07366/" target="_blank">LinkedIn</a> | 
