@@ -30,4 +30,5 @@ I'm Valentino Hose
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ## GitHub Stats
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=VHose&theme=gruvbox&hide_border=false)
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=VHose&show_icons=true&theme=tokyonight)
