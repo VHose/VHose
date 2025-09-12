@@ -21,7 +21,7 @@ I'm Valentino Hose
 - 🌱 Currently learning Web Development (HTML, CSS, JS)  
 - 🔭 Interested in AI and game creation
 - 📫 How to reach me: 
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/valentino-hose-09ba07366/)" target="_blank">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/valentino-hose-09ba07366/" target="_blank">LinkedIn</a> | 
   <a href="https://www.instagram.com/legaseeh?igsh=ZGRlaHBrYXQxbnF3" target="_blank">Instagram</a>
 
 
