@@ -18,7 +18,7 @@ I'm Valentino Hose
 
 ## About Me
 - 🌱 Currently learning HTML, CSS, JS, Godot, Python
-- 🔭 Interested in AI and game creation
+- 🔭 Interested in AI, Inovation and Game
 - 📫 How to reach me: 
   <a href="https://www.linkedin.com/in/valentino-hose-09ba07366/" target="_blank">LinkedIn</a> | 
   <a href="https://www.instagram.com/legaseeh?igsh=ZGRlaHBrYXQxbnF3" target="_blank">Instagram</a>
